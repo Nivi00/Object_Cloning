@@ -1,0 +1,38 @@
+Normal Class: this class contains following properties.
+============
+
+1. variables(all variables)
+2. constructors
+3. blocks
+4. methods(all methods)
+5. **no abstract methods
+6. main
+7. objects
+
+=======================================================================================
+
+Abstract Class: if we declare the normal class with 'abstract' keyword, then 
+==============  that class is called abstract class.
+
+1. variables(all variables)
+2. constructors
+3. blocks
+4. methods(all methods)
+5. **abstract methods
+6. main()
+7. no objects
+
+======================================================================================
+
+Interface Class: if we declare the class with 'interface' keyword, then 
+===============  that class is called interface class.
+
+1. variables(but only static final variables)
+2. no constructors
+3. no blocks
+4. methods(only static methods)
+5. **abstract methods
+6. main()
+7. no objects
+
+
